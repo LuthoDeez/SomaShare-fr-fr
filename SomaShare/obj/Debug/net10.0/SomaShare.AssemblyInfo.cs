@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SomaShare")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b94111c0f4962460f9e82be53a4ae3fe644cb945")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+869b27e3f8d8f2354251da36ba20e703c154ec86")]
 [assembly: System.Reflection.AssemblyProductAttribute("SomaShare")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SomaShare")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

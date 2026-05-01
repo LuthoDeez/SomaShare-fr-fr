@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\School Laptop\\source\\repos\\SomaShare\\SomaShare\\SomaShare.csproj": {}
+    "C:\\Users\\School Laptop\\source\\repos\\SomaShare-fr-fr\\SomaShare\\SomaShare.csproj": {}
   },
   "projects": {
-    "C:\\Users\\School Laptop\\source\\repos\\SomaShare\\SomaShare\\SomaShare.csproj": {
+    "C:\\Users\\School Laptop\\source\\repos\\SomaShare-fr-fr\\SomaShare\\SomaShare.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\School Laptop\\source\\repos\\SomaShare\\SomaShare\\SomaShare.csproj",
+        "projectUniqueName": "C:\\Users\\School Laptop\\source\\repos\\SomaShare-fr-fr\\SomaShare\\SomaShare.csproj",
         "projectName": "SomaShare",
-        "projectPath": "C:\\Users\\School Laptop\\source\\repos\\SomaShare\\SomaShare\\SomaShare.csproj",
+        "projectPath": "C:\\Users\\School Laptop\\source\\repos\\SomaShare-fr-fr\\SomaShare\\SomaShare.csproj",
         "packagesPath": "C:\\Users\\School Laptop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\School Laptop\\source\\repos\\SomaShare\\SomaShare\\obj\\",
+        "outputPath": "C:\\Users\\School Laptop\\source\\repos\\SomaShare-fr-fr\\SomaShare\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
